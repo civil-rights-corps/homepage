@@ -1,0 +1,19 @@
+header {
+    height: 37vh;
+    background: black;
+    color: white !important;
+    text-transform: uppercase;
+
+}
+
+header .logo-wrapper {
+    background-image: url(../assets/logo-white.png);
+    background-size: contain;
+    height: 100px;
+    background-repeat: no-repeat;
+}
+
+img {
+    height: 100px;
+}
+
