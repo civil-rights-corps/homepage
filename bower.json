@@ -1,0 +1,22 @@
+{
+  "name": "Civil Rights Corps",
+  "homepage": "https://github.com/civil-rights-corps/homepage",
+  "authors": [
+    "Kevin Moore <k.james.moore@gmail.com>"
+  ],
+  "description": "The code that powers the Civil Rights Corp homepage",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexboxgrid": "^6.3.2",
+    "jquery": "^3.1.1",
+    "normalize-css": "^5.0.0"
+  }
+}
